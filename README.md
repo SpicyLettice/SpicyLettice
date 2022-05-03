@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SpicyLettice
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning discord bots
-- 📫 How to reach me discord SpicyLettice#6236
+- 👀 Intrested in photography and programming
+- 🌱 I’m currently learning discord bots with discord.py
+- 📫 How to reach me discord SpicyLettice#0001
 
 <!---
 SpicyLettice/SpicyLettice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
